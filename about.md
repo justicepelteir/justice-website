@@ -3,15 +3,17 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Boston University graduate with experience in technology research, leading high-performance teams and project groups, in addition to mitigating and mediating conflicts. I am attending the Epicodus software development bootcamp after realizing my desire to become a professional software developer. I enjoy nature photography, bouldering, reading, and writing in my free time. Additionally, as of 2021, I am the youngest volunteer Santa on The Holiday Express in Portland, OR to date. I am excited and motivated to work on projects and technologies with the desire to create a positive impact. Some technologies of interest to me are JavaScript, React, Ruby, Ruby on Rails, Python, Django and Web3.
+
+Personality Profile:
+---
+- MBTI: <a href ="https://www.16personalities.com/intj-personality" target="_blank" rel="noopener noreferrer">INTJ</a>
+- Horoscope: Aquarius
+- Clifton Strengths: <a href ="https://www.gallup.com/cliftonstrengths/en/252134/achiever-theme.aspx" target="_blank" rel="noopener noreferrer">Achiever</a>, <a href ="https://www.gallup.com/cliftonstrengths/en/252176/command-theme.aspx" target="_blank" rel="noopener noreferrer">Command</a>, <a href ="https://www.gallup.com/cliftonstrengths/en/252284/intellection-theme.aspx" target="_blank" rel="noopener noreferrer">Intellection</a>, <a href ="https://www.gallup.com/cliftonstrengths/en/252293/learner-theme.aspx" target="_blank" rel="noopener noreferrer">Learner</a>, <a href ="https://www.gallup.com/cliftonstrengths/en/252323/restorative-theme.aspx" target="_blank" rel="noopener noreferrer">Restorative</a>
 
 <figure>
-  <img alt="Christopher Hitchens" src="assets/images/justice-douglas.jpg" />
+  <img alt="Justice Douglas" src="assets/images/justice-douglas.jpg" />
   <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
+    Photo by Justice Douglas
   </figcaption>
 </figure>
-
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
-
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
